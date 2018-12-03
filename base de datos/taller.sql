@@ -1,3 +1,4 @@
+use taller;
 
 CREATE SEQUENCE public.vehiculo_id_seq;
 
